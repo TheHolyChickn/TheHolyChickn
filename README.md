@@ -1,6 +1,6 @@
 ## lol wsg team
 
-hi im theholychickn im a physics and mmath nerd who plauys skyblock this
+### <samp>&gt; hi im <a href="[https://www.twitter.com/adi1090x](https://www.youtube.com/TheHolyChickenYT)" target="_blank"The Holy Chicken</a></samp>
 </br>
 
 <p>
