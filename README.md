@@ -1,6 +1,8 @@
 ## lol wsg team
 
 ### <samp>&gt; hi im <a href="https://www.youtube.com/TheHolyChickenYT" target="_blank">The Holy Chicken</a></samp>
+
+nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=TheHolyChickn)
 </br>
 
 <p>
