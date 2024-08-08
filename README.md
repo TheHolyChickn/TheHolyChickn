@@ -14,5 +14,5 @@
 </p>
 
 <p>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHolyChickn&layout=donut&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHolyChickn&layout=donut&show_icons=true"/>
 </p>
