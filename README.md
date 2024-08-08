@@ -5,8 +5,8 @@
 &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=TheHolyChickn)
 
 <p align="center">
-  <img height="190px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TheHolyChickn&show_icons=true&count_private=true&include_all_commits=true&theme=transparent"/>
-  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHolyChickn&layout=donut&langs_count=8&theme=github_dark"/>
+  <img height="190px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TheHolyChickn&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
+  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHolyChickn&layout=donut&langs_count=8&theme=tokyonight"/>
 </p>
 
 <p align="center">
