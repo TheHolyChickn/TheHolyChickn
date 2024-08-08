@@ -4,7 +4,10 @@
 
 &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=TheHolyChickn)
 
-i work on 
+<p align="center">
+  <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TheHolyChickn&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=TheHolyChickn&layout=compact&langs_count=8&theme=dracula" />
+</p>
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/TheHolyChickn/TheHolyChickn/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
