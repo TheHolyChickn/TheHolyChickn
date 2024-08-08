@@ -2,7 +2,9 @@
 
 ### <samp>&gt; hi im <a href="https://www.youtube.com/TheHolyChickenYT" target="_blank">The Holy Chicken</a></samp>
 
-<p align="center">&nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=TheHolyChickn)</p>
+im a physics and math nerd who also plays and sometimes that means i have to code things so now i have a github
+
+&nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=TheHolyChickn)
 
 <p align="center">
   <img height="190px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TheHolyChickn&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
