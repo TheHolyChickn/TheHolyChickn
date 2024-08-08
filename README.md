@@ -2,7 +2,7 @@
 
 ### <samp>&gt; hi im <a href="https://www.youtube.com/TheHolyChickenYT" target="_blank">The Holy Chicken</a></samp>
 
-&nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=TheHolyChickn)
+<p aligh="center">&nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=TheHolyChickn)</p>
 
 <p align="center">
   <img height="190px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TheHolyChickn&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
