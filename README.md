@@ -1,6 +1,6 @@
 ## lol wsg team
 
-### <samp>&gt; hi im <a href="[https://www.twitter.com/adi1090x](https://www.youtube.com/TheHolyChickenYT)" target="_blank"The Holy Chicken</a></samp>
+### <samp>&gt; hi im <a href="https://www.youtube.com/TheHolyChickenYT" target="_blank">The Holy Chicken</a></samp>
 </br>
 
 <p>
